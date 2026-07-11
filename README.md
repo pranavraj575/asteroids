@@ -4,11 +4,14 @@
 
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/playing.gif">
 
+[Changes from original repo](https://github.com/pranavraj575/asteroids/blob/master/changes.md)
+
 ## Controls
 
 * Thrust: <kbd>up</kbd><br>
 * Pivot ship left: <kbd>left</kbd><br>
 * Pivot ship right: <kbd>right</kbd><br>
+* Brake: <kbd>down</kbd><br>
 * Fire: <kbd>space</kbd><br>
 
 ## Topologies
