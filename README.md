@@ -4,11 +4,6 @@
 
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/playing.gif">
 
-The trusty Asteroids game created with JavaScript and HTML5 Canvas. Uses `requestAnimationFrame()`
-to render smooth 60FPS, which is more efficient than `setTimeOut()`/`setInterval()`.
-
-*That's a GIF ... I promise the actual FPS is higher than 8*
-
 ## Controls
 
 * Thrust: <kbd>up</kbd><br>
@@ -41,3 +36,17 @@ to render smooth 60FPS, which is more efficient than `setTimeOut()`/`setInterval
 ### RP&sup2;
 <img src="https://github.com/pranavraj575/asteroids/blob/master/img/rp2.png" width=100>
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/rp2.png">
+
+## How to play locally (if you dont like spooky links)
+
+* Clone/cd into repo
+  ```bash
+  git clone https://github.com/pranavraj575/asteroids
+  cd asteroids
+  ```
+* Start `index.html`
+  * Windows: `start index.html`
+  * Linux:  `xdg-open index.html`
+  * Mac (2 steps):
+    * Get a new computer
+    * Run one of the other two commands
