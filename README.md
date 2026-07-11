@@ -1,10 +1,6 @@
-# Asteroids (with cool bonus stuff)
+# Asteroids (played on different 2d spaces)
 
-[Live!](http://pranavraj575.github.io/assets/html/assteroids)
-
-Thar be sounds--turn up (or down) as you see fit
-
-
+[play here](http://pranavraj575.github.io/assets/html/assteroids)
 
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/playing.gif">
 
