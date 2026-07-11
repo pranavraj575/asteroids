@@ -1,26 +1,23 @@
-# Asteroids (with cool bonus stuff)
+# Asteroids (played on different 2d spaces)
 
-[Live!](http://pranavraj575.github.io/assets/html/assteroids)
-
-Thar be sounds--turn up (or down) as you see fit
-
-
+[play here](http://pranavraj575.github.io/assets/html/assteroids)
 
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/playing.gif">
 
-The trusty Asteroids game created with JavaScript and HTML5 Canvas. Uses `requestAnimationFrame()`
-to render smooth 60FPS, which is more efficient than `setTimeOut()`/`setInterval()`.
-
-*That's a GIF ... I promise the actual FPS is higher than 8*
+[Changes from original repo](https://github.com/pranavraj575/asteroids/blob/master/changes.md)
 
 ## Controls
 
-* Thrust: <kbd>up</kbd><br>
-* Pivot ship left: <kbd>left</kbd><br>
-* Pivot ship right: <kbd>right</kbd><br>
+* Thrust: &#8593;
+* Pivot ship left: &#8592;
+* Pivot ship right: &#8594;
+* Brake: &#8595;
 * Fire: <kbd>space</kbd><br>
 
 ## Topologies
+
+The boundary pairs (left/right and top/bottom) are can be kept as boundaries, joined in the same orientation, or joined in the inverted orientation.
+This creates 6 unique topologies to play on.
 
 ### square
 <img src="https://github.com/pranavraj575/asteroids/blob/master/img/square.png" width=100>
@@ -45,3 +42,17 @@ to render smooth 60FPS, which is more efficient than `setTimeOut()`/`setInterval
 ### RP&sup2;
 <img src="https://github.com/pranavraj575/asteroids/blob/master/img/rp2.png" width=100>
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/rp2.png">
+
+## How to play locally (if you dont like spooky links)
+
+* Clone/cd into repo
+  ```bash
+  git clone https://github.com/pranavraj575/asteroids
+  cd asteroids
+  ```
+* Start `index.html`
+  * Windows: `start index.html`
+  * Linux:  `xdg-open index.html`
+  * Mac (2 steps):
+    * Get a new computer
+    * Run one of the other two commands
