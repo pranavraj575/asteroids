@@ -13,6 +13,9 @@
 
 ## Topologies
 
+The boundary pairs (left/right and top/bottom) are can be kept as boundaries, joined in the same orientation, or joined in the inverted orientation.
+This creates 6 unique topologies to play on.
+
 ### square
 <img src="https://github.com/pranavraj575/asteroids/blob/master/img/square.png" width=100>
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/square.png">
