@@ -1,6 +1,6 @@
 # Asteroids (with cool bonus stuff)
 
-[Live!](http://lorenkp.github.io/Asteroids/)
+[Live!](http://pranavraj575.github.io/assets/html/assteroids)
 
 Thar be sounds--turn up (or down) as you see fit
 
