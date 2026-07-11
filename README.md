@@ -1,4 +1,4 @@
-# Asteroids
+# Asteroids (with cool bonus stuff)
 
 [Live!](http://lorenkp.github.io/Asteroids/)
 
