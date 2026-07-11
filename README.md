@@ -6,7 +6,7 @@ Thar be sounds--turn up (or down) as you see fit
 
 
 
-<img src="http://res.cloudinary.com/loren/image/upload/v1444161554/Compose_oiwkih.gif">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/display.gif">
 
 The trusty Asteroids game created with JavaScript and HTML5 Canvas. Uses `requestAnimationFrame()`
 to render smooth 60FPS, which is more efficient than `setTimeOut()`/`setInterval()`.
