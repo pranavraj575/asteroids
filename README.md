@@ -8,10 +8,10 @@
 
 ## Controls
 
-* Thrust: <kbd>up</kbd><br>
-* Pivot ship left: <kbd>left</kbd><br>
-* Pivot ship right: <kbd>right</kbd><br>
-* Brake: <kbd>down</kbd><br>
+* Thrust: &#8593;
+* Pivot ship left: &#8592;
+* Pivot ship right: &#8594;
+* Brake: &#8595;
 * Fire: <kbd>space</kbd><br>
 
 ## Topologies
