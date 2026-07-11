@@ -6,7 +6,7 @@ Thar be sounds--turn up (or down) as you see fit
 
 
 
-<img src="https://github.com/pranavraj575/asteroids/blob/master/img/display.gif">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/display/playing.gif">
 
 The trusty Asteroids game created with JavaScript and HTML5 Canvas. Uses `requestAnimationFrame()`
 to render smooth 60FPS, which is more efficient than `setTimeOut()`/`setInterval()`.
@@ -20,14 +20,28 @@ to render smooth 60FPS, which is more efficient than `setTimeOut()`/`setInterval
 * Pivot ship right: <kbd>right</kbd><br>
 * Fire: <kbd>space</kbd><br>
 
-## Game Features
-* Spawning player/ship is invincible for 3 seconds (indicated by flashing ship)
-* Three asteroid sizes: large asteroids break into two medium asteroids, which break into three small asteroids
-* Distinct collision sound for each asteroid size
-* Asteroid pieces split in random directions
-* Asteroids have random velocity, but within tiers, e.g. largest moves slowest, etc.
-* Real time score in upper right corner; smaller asteroids worth more points
-* Game gets harder: game starts with four large asteroids, and each level adds two more asteroids to the mix
-* Respects Newton's First Law: you best believe you're going to keep moving unless you thrust in the opposite direction
+## Topologies
 
+### square
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/square.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/display/square.png">
 
+### cylinder
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/cylinder.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/display/cylinder.png">
+
+### m&ouml;bius strip
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/mobius.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/display/mobius.png">
+
+### torus
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/torus.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/display/torus.png">
+
+### klien bottle
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/klien.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/display/klien.png">
+
+### RP&sup2;
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/rp2.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/display/rp2.png">
