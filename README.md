@@ -23,25 +23,25 @@ to render smooth 60FPS, which is more efficient than `setTimeOut()`/`setInterval
 ## Topologies
 
 ### square
-<img src="https://github.com/pranavraj575/asteroids/blob/master/img/square.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/square.png" width=100>
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/square.png">
 
 ### cylinder
-<img src="https://github.com/pranavraj575/asteroids/blob/master/img/cylinder.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/cylinder.png" width=100>
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/cylinder.png">
 
 ### m&ouml;bius strip
-<img src="https://github.com/pranavraj575/asteroids/blob/master/img/mobius.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/mobius.png" width=100>
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/mobius.png">
 
 ### torus
-<img src="https://github.com/pranavraj575/asteroids/blob/master/img/torus.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/torus.png" width=100>
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/torus.png">
 
 ### klien bottle
-<img src="https://github.com/pranavraj575/asteroids/blob/master/img/klien.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/klien.png" width=100>
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/klien.png">
 
 ### RP&sup2;
-<img src="https://github.com/pranavraj575/asteroids/blob/master/img/rp2.png">
+<img src="https://github.com/pranavraj575/asteroids/blob/master/img/rp2.png" width=100>
 <img src="https://github.com/pranavraj575/asteroids/blob/master/display/rp2.png">
