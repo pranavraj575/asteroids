@@ -51,7 +51,7 @@ canvas {
 #start {
   text-align: center;
   position: relative;
-  top: 325px;
+  top: 345px;
   font-size: 21px;
   letter-spacing: 5px;
   z-index: 1;
@@ -70,6 +70,32 @@ canvas {
   animation-name: blink;
   animation-iteration-count: infinite;
   animation-direction: alternate;
+}
+
+#credits {
+  text-align: center;
+  position: relative;
+  top: 0px;
+  font-size: 15px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  z-index: 1;
+}
+#toppy {
+  text-align: center;
+  position: relative;
+  top: 500px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  z-index: 1;
+}
+#toppy2 {
+  text-align: center;
+  position: relative;
+  top: 640px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  z-index: 1;
 }
 
 @-moz-keyframes blink {
