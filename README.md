@@ -1,4 +1,4 @@
-# Asteroids (played on different 2d spaces)
+# Asteroids (played on different 2d manifolds)
 
 [play here](http://pranavraj575.github.io/assets/html/assteroids)
 
